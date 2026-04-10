@@ -1,0 +1,96 @@
+E-commerce Platform Detector by Duxly
+
+Instantly identify which e-commerce platform any website is using — right from your browser.
+
+🔍 KEY FEATURES
+
+• Automatic Detection — No clicking required. The extension detects platforms as you browse.
+• Badge Indicator — See the platform abbreviation directly on the extension icon.
+• 11 Major Platforms — Detects Shopify, WooCommerce, Magento, BigCommerce, Lightspeed, PrestaShop, Salesforce Commerce Cloud, Adobe Commerce, OpenCart, Squarespace, and Wix eCommerce.
+• Clean Interface — Simple, modern popup shows detailed platform information.
+• Version Detection — See which version of the platform is being used (when detectable).
+• Privacy Focused — All detection happens locally. No data collection, no tracking, no external servers.
+
+🛒 SUPPORTED PLATFORMS
+
+✓ Shopify — World's leading cloud commerce platform
+✓ WooCommerce — Most popular WordPress e-commerce plugin
+✓ Magento / Adobe Commerce — Enterprise e-commerce solution
+✓ Lightspeed — Point of Sale and e-commerce platform
+✓ PrestaShop — Open-source e-commerce platform
+✓ BigCommerce — Leading SaaS e-commerce solution
+✓ Salesforce Commerce Cloud — Enterprise commerce platform
+✓ OpenCart — Free open-source shopping cart
+✓ Squarespace Commerce — All-in-one website and store builder
+✓ Wix eCommerce — Drag-and-drop e-commerce platform
+
+💡 HOW IT WORKS
+
+The extension analyzes each website you visit using multiple detection methods:
+
+• DOM structure and HTML classes
+• Meta tags and generator information
+• CDN and script sources
+• Cookie names
+• JavaScript global variables
+
+When a platform is detected, the extension badge lights up with a two-letter abbreviation (e.g., "SF" for Shopify, "WC" for WooCommerce). Click the icon to see full details including the platform name and version.
+
+🎯 WHO IS THIS FOR?
+
+Perfect for:
+
+• E-commerce professionals researching competitor tech stacks
+• Web developers and agencies evaluating platforms
+• Business owners exploring e-commerce solutions
+• Digital marketers analyzing online stores
+• Anyone curious about what powers their favorite online shops
+
+🔒 PRIVACY & SECURITY
+
+Your privacy matters:
+
+✓ No data collection — We don't collect, store, or transmit any data
+✓ No tracking — Your browsing history stays private
+✓ Local processing — All detection happens in your browser
+✓ No external servers — No communication with third parties
+✓ Open detection — Only analyzes publicly visible page content
+
+🌐 ABOUT DUXLY
+
+Built by Duxly, the e-commerce integration specialists based in the Netherlands. We help businesses connect their e-commerce platforms with ERPs, accounting software, and other business tools.
+
+Need custom e-commerce integrations? Visit www.duxly.nl/platforms
+
+⚡ TECHNICAL DETAILS
+
+• Manifest V3 — Built with the latest Chrome extension API
+• Service Worker — Efficient background processing
+• Zero dependencies — Lightweight and fast
+• SPA compatible — Handles modern single-page applications
+• Delayed detection — Catches late-loading scripts
+
+🆕 FUTURE UPDATES
+
+We're constantly improving the extension with:
+
+• More platform support
+• Enhanced version detection
+• Performance optimizations
+• Feature requests from users
+
+Have a suggestion? Contact us through www.duxly.nl
+
+---
+
+KEYWORDS: e-commerce, platform detector, Shopify detector, WooCommerce detector, Magento detector, BigCommerce, online store, web development tools, tech stack, e-commerce analytics, platform identification, shopping cart detector, Duxly
+
+INSTALLATION
+
+Click "Add to Chrome" to install. No configuration needed — the extension works automatically on every website you visit.
+
+SUPPORT
+
+Questions or issues? Visit www.duxly.nl or check the support section.
+
+Made with ❤️ by Duxly — E-commerce Integration Specialists
