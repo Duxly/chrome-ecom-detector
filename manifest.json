@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "E-commerce Platform Detector by Duxly",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Instantly detect which e-commerce platform any website is using. Built by Duxly, the e-commerce integration specialists.",
   "permissions": [
     "activeTab"
